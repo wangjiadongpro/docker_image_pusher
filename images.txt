@@ -1,3 +1,4 @@
+bluenviron/mediamtx:latest
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -63,6 +64,6 @@
 #vllm/vllm-openai:v0.13.3
 #vllm/vllm-openai:v0.12.0
 #vllm/vllm-openai:v0.11.0
-apache/polaris:1.7.0
-mysql:8.4.11
-postgres:16-alpine
+#apache/polaris:1.7.0
+#mysql:8.4.11
+#postgres:16-alpine
